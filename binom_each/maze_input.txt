@@ -1,4 +1,13 @@
-devin_a;1;
-devin_b;1;
-devin_c;1;
-devin_d;1;
+how_each_a;1;How many books each do the teachers assign the students for the final paper?
+how_each_b;1;How many books each does the teacher assign the students for the final paper?
+how_each_c;1;How many books total do the teachers assign the students for the final paper?
+how_each_d;1;How many books total does the teacher assign the students for the final papers?
+....
+24
+
+embed_subj_a;25;The TAs who the teachers can trust will assign the student three books each for the final paper.
+embed_subj_b;25;The TAs who the teacher can trust will assign the student three books each for the final paper.
+embed_subj_c;25;The TA who the teachers can trust will assign the student three books each for the final paper.
+embed_subj_d;25;The TA who the teacher can trust will assign the student three books each for the final paper.
+...
+48
