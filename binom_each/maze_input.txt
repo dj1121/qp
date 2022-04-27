@@ -1,13 +1,136 @@
-how_each_a;1;How many books each do the teachers assign the students for the final paper?
-how_each_b;1;How many books each does the teacher assign the students for the final paper?
-how_each_c;1;How many books total do the teachers assign the students for the final paper?
-how_each_d;1;How many books total does the teacher assign the students for the final papers?
-....
-24
-
-embed_subj_a;25;The TAs who the teachers can trust will assign the student three books each for the final paper.
-embed_subj_b;25;The TAs who the teacher can trust will assign the student three books each for the final paper.
-embed_subj_c;25;The TA who the teachers can trust will assign the student three books each for the final paper.
-embed_subj_d;25;The TA who the teacher can trust will assign the student three books each for the final paper.
-...
-48
+Hyosik-A;1;The mayor couldn't remember which donor, but the proposal that would expand the town hall would overburden one of the rich donors.
+Hyosik-B;1;The mayor couldn't remember which department, but the proposal that would expand the town hall would overburden one of the municipal departments.
+Hyosik-C;1;The mayor couldn't remember which donor the proposal that would expand the town hall would overburden.
+Hyosik-D;1;The mayor couldn't remember which department the proposal that would expand the town hall would overburden.
+Hyosik-A;2;The reporter couldn't remember which accident, but the police officer that prepared the statement said it was one of the worst accidents on record.
+Hyosik-B;2;The reporter couldn't remember which press-release, but the police officer that prepared the statement said it was one of the worst interactions with the press on record.
+Hyosik-C;2;The reporter couldn't remember which accident the police officer that prepared the statement said was one of the worst on record.
+Hyosik-D;2;The reporter couldn't remember which press-release the police officer that prepared the statement said was one of the worst interactions with the press on record.
+Hyosik-A;3;I can't be certain which councilman, but the ordinance that would close the library was supported by one of the councilmen on the board.
+Hyosik-B;3;I can't be certain which university, but the ordinance that would close the library was supported by one of the universities nearby.
+Hyosik-C;3;I can't be certain which councilman the ordinance that would close the library was supported by.
+Hyosik-D;3;I can't be certain which university the ordinance that would close the library was supported by.
+Hyosik-A;4;The mother didn't reveal which injury, but the insurance company that offered specialized customer service refused to cover one of the injuries from the accident.
+Hyosik-B;4;The mother didn't reveal which plan, but the insurance company that offered specialized customer service refused to offer one of their affordable financial options.
+Hyosik-C;4;The mother didn't reveal which injury the insurance company that offered specialized customer service refused to cover.
+Hyosik-D;4;The mother didn't reveal which plan the insurance company that offered specialized customer service refused to offer.
+Hyosik-A;5;People would not say which concepts, but the new article that held the public spellbound contained several new concepts that were alarming.
+Hyosik-B;5;People would not say which positions but the new article that held the public spellbound contained several new positions that were alarming.
+Hyosik-C;5;People would not say which concepts the new article that held the public spellbound contained that were alarming.
+Hyosik-D;5;People would not say which positions the new article that held the public spellbound contained that were alarming.
+Hyosik-A;6;The reporter couldn't remember which award, but the unrelenting association that fought for an activist finally won a prestigious prize.
+Hyosik-B;6;The reporter couldn't remember which lawsuit, but the unrelenting association that fought for an activist finally won a court case.
+Hyosik-C;6;The reporter couldn't remember which award the unrelenting association that fought for an activist finally won.
+Hyosik-D;6;The reporter couldn't remember which lawsuit the unrelenting association that fought for an activist finally won.
+Hyosik-A;7;The writer didn't identify which location, but the renowned director that hired the costume designer wanted to find a magnificent place for his upcoming film.
+Hyosik-B;7;The writer didn't identify which actress, but the renowned director that hired the costume designer wanted to find a magnificent actress for his upcoming film.
+Hyosik-C;7;The writer didn't identify which location the renowned director that hired the costume designer wanted to find.
+Hyosik-D;7;The writer didn't identify which actress the renowned director that hired the costume designer wanted to find.
+Hyosik-A;8;The bishop wasn't sure which landmark, but the crusaders that had fought the Moors claimed to have overtaken one of the major local landmarks.
+Hyosik-B;8;The bishop wasn't sure which group, but the crusaders that had fought the Moors claimed to have overtaken one of the major local factions.
+Hyosik-C;8;The bishop wasn't sure which landmark the crusaders that had fought the Moors claimed to have overtaken in the area.
+Hyosik-D;8;The bishop wasn't sure which group the crusaders that had fought the Moors claimed to have overtaken in the area.
+Hyosik-A;9;The report didn't say which election, but the federal agents that warned the FEC suggested that some of the results had been compromised.
+Hyosik-B;9;The report didn't say which voters, but the federal agents that warned the FEC suggested that some of the results had been compromised.
+Hyosik-C;9;The report didn't say which election the federal agents that warned the FEC suggested had been compromised.
+Hyosik-D;9;The report didn't say which voters the federal agents that warned the FEC suggested had been compromised.
+Hyosik-A;10;The general wouldn't divulge which problem, but the sergeant that had called the sentries to attention noticed a looming issue in troop deployment.
+Hyosik-B;10;The general wouldn't divulge which troop, but the sergeant that had called the sentries to attention noticed a looming issue with one of the troop deployments.
+Hyosik-C;10;The general wouldn't divulge which problem the sergeant that had called the sentries to attention noticed at the border.
+Hyosik-D;10;The general wouldn't divulge which troop the sergeant that had called the sentries to attention noticed at the border.
+Hyosik-A;11;Bill didn't indicate which grading criteria, but the proctors that had asked for a grade change seemed to think one of the grading criteria was unfair.
+Hyosik-B;11;Bill didn't indicate which teacher's aide, but the proctors that had asked for a grade change seemed to think one of the teacher's aides was unfair.
+Hyosik-C;11;Bill didn't indicate which grading criteria the proctors that had asked for a grade change seemed to think was unfair.
+Hyosik-D;11;Bill didn't indicate which teacher's aide the proctors that had asked for a grade change seemed to think was unfair.
+Hyosik-A;12;John's message didn't mention which disagreement, but the budget that had benefitted the current administration caused a huge argument in the graduate school.
+Hyosik-B;12;John's message didn't mention which students, but the budget that had benefitted the current administration caused a huge argument among some of the students.
+Hyosik-C;12;John's message didn't mention which disagreement the budget that had benefitted the current administration caused.
+Hyosik-D;12;John's message didn't mention which students the budget that had benefitted the current administration caused a huge argument among.
+Hyosik-A;13;The senator forgot which exchange program, but the publicist that had aimed to strengthen international ties said that it was good for business overseas.
+Hyosik-B;13;The senator forgot which deadly weapon, but the publicist that had aimed to strengthen international ties said that it was good for business overseas.
+Hyosik-C;13;The senator forgot which exchange program the publicist that had aimed to strengthen international ties said that was good for business overseas.
+Hyosik-D;13;The senator forgot which deadly weapon, but the publicist that had aimed to strengthen international ties said that was good for business overseas.
+Hyosik-A;14;I don't remember which specific child, but the art director that continued to pay alimony was annoyed with one of his children.
+Hyosik-B;14;I don't remember which specific project, but the art director that continued to pay alimony was annoyed with one of his projects.
+Hyosik-C;14;I don't remember which specific child the art director that continued to pay alimony was annoyed with.
+Hyosik-D;14;I don't remember which specific project the art director that continued to pay alimony was annoyed with.
+Hyosik-A;15;I don't know which computer virus, but the system reset that improved network connectivity seemed to have fixed at least one of the viruses.
+Hyosik-B;15;I don't know which computer program, but the system reset that improved network connectivity seemed to have fixed at least one of the programs.
+Hyosik-C;15;I don't know which computer virus the system reset that improved network connectivity seemed to have fixed.
+Hyosik-D;15;I don't know which computer program the system reset that improved network connectivity seemed to have fixed.
+Hyosik-A;16;John failed to report which advertisements, but the ad agency that polled the focus group completely over looked some of the more questionable advertisements.
+Hyosik-B;16;John failed to report which customers, but the ad agency that polled the focus group completely over looked some of the more questionable customers.
+Hyosik-C;16;John failed to report which advertisements the ad agency that polled the focus group completely over looked.
+Hyosik-D;16;John failed to report which customers the ad agency that polled the focus group completely over looked.
+Hyosik-A;17;I don't remember which specific technique, but the professor that had warned of global warming was teaching a new research technique in class.
+Hyosik-B;17;I don't remember which specific students, but the professor that had warned of global warming was teaching a new research students in class.
+Hyosik-C;17;I don't remember which specific technique the professor that had warned of global warming was teaching in class.
+Hyosik-D;17;I don't remember which specific students the professor that had warned of global warning was teaching in class.
+Hyosik-A;18;The manager didn't reveal which traveler, but the tour guide that coordinates special events wanted to talk about one of the travelers.
+Hyosik-B;18;The manager didn't reveal which arrangements, but the tour guide that coordinates special events wanted to talk about some of the arrangements.
+Hyosik-C;18;The manager didn't reveal which traveler the tour guide that coordinates special events wanted to talk about.
+Hyosik-D;18;The manager didn't reveal which arrangements the tour guide that coordinates special events wanted to talk about.
+Hyosik-A;19;The agent never revealed which procedures, but the insurance company that compensated the injured man in the lawsuit had ignored some procedures.
+Hyosik-B;19;The agent never revealed which victims, but the insurance company that compensated the injured man in the lawsuit had ignored some victims.
+Hyosik-C;19;The agent never revealed which procedures the insurance company that compensated the injured man in the lawsuit had ignored.
+Hyosik-D;19;The agent never revealed which victims the insurance company that compensated the injured man in the lawsuit had ignored.
+Hyosik-A;20;The dietician didn't specify which disaster, but the daycare center that prepares children for school avoided a certain disaster last week.
+Hyosik-B;20;The dietician didn't specify which food, but the daycare center that prepares children for school avoided a certain food last week.
+Hyosik-C;20;The dietician didn't specify which disaster the daycare center that prepares children for school avoided last week.
+Hyosik-D;20;The dietician didn't specify which food the daycare center that prepares children for school avoided last week.
+Hyosik-A;21;She was not sure which food, but the researchers that had battled with the protestors were examining some food.
+Hyosik-B;21;She was not sure which disease, but the researchers that had battled with the protestors were examining some disease.
+Hyosik-C;21;She was not sure which food the researchers that had battled with the protestors were examining.
+Hyosik-D;21;She was not sure which disease the researchers that had battled with the protestors were examining.
+Hyosik-A;22;John's email never mentioned which dispute, but the tax breaks that benefitted business owners created problems in some dispute.
+Hyosik-B;22;John's email never mentioned which workers, but the tax breaks that benefitted business owners created problems for some workers.
+Hyosik-C;22;John's email never mentioned which dispute the tax breaks that benefitted business owners created problems in.
+Hyosik-D;22;John's email never mentioned which workers the tax breaks that benefitted business owners created problems for.
+Hyosik-A;23;The legislator didn't say which students, but the ordinance that had expanded the city limits would surely disturb some of the local students.
+Hyosik-B;23;The legislator didn't say which schools, but the ordinance that had expanded the city limits would surely disturb some of the local schools.
+Hyosik-C;23;The legislator didn't say which students the ordinance that had expanded the city limits would surely disturb.
+Hyosik-D;23;The legislator didn't say which schools the ordinance that had expanded the city limits would surely disturb.
+Hyosik-A;24;The assistant didn't clarify which investigation, but the prosecutors that had argued the point strongly were clearly involved in some important investigation.
+Hyosik-B;24;The assistant didn't clarify which case, but the prosecutors that had argued the point strongly were clearly involved in some important case.
+Hyosik-C;24;The assistant didn't clarify which investigation the prosecutors that had argued the point strongly were clearly involved in.
+Hyosik-D;24;The assistant didn't clarify which case the prosecutor that had argued the point strongly were clearly involved in.
+Hyosik-A;25;The nurse didn't ask which injuries, but the neurosurgeon that had provided medical advice reviewed a few of the injuries with the patient.
+Hyosik-B;25;The nurse didn't ask which services, but the neurosurgeon that had provided medical advice reviewed a few of the services with the patient.
+Hyosik-C;25;The nurse didn't ask which injuries the neurosurgeon that had provided medical advice reviewed with the patient.
+Hyosik-D;25;The nurse didn't ask which services the neurosurgeon that had provided medical advice reviewed with the patient.
+Hyosik-A;26;I'm not completely sure which day, but the babysitter that had allowed the dog to go to the backyard smiled constantly one day this week.
+Hyosik-B;26;I'm not completely sure which children, but the babysitter that had allowed the dog to go to the backyard smiled constantly at one of the children this week.
+Hyosik-C;26;I'm not completely sure which day the babysitter that had allowed the dog to go to the backyard smiled constantly this week.
+Hyosik-D;26;I'm not completely sure which children the babysitter that had allowed the dog to go to the backyard smiled constantly at this week.
+Hyosik-A;27;I do not know which materials, but the vice president that helped the CEO managed some of the materials for the company.
+Hyosik-B;27;I do not know which committee, but the vice president that helped the CEO managed one of the committees for the company.
+Hyosik-C;27;I do not know which materials the vice president that helped the CEO managed.
+Hyosik-D;27;I do not know which committee the vice president that helped the CEO managed.
+Hyosik-A;28;It was not clear which student, but the department head that improved the curriculum listened to one of the complaints.
+Hyosik-B;28;It was not clear which class, but the department head that improved the curriculum listened to one of the classes.
+Hyosik-C;28;It was not clear which student the department head that improved the curriculum listened to.
+Hyosik-D;28;It was not clear which class the department head that improved the curriculum listened to.
+Hyosik-A;29;The doctor couldn't disclose which side-effect, but the patient that continued working after her diagnosis anticipated one of the new side effects.
+Hyosik-B;29;The doctor couldn't disclose which treatment, but the patient that continued working after her diagnosis anticipated one of the new treatments.
+Hyosik-C;29;The doctor couldn't disclose which side-effect the patient that continued working after her diagnosis anticipated.
+Hyosik-D;29;The doctor couldn't disclose which treatment the patient that continued working after her diagnosis anticipated.
+Hyosik-A;30;The media won't say which law, but the memo that had aimed to inform the president about recent dangers cited one of the controversial federal laws.
+Hyosik-B;30;The media won't say which complaints, but the memo that had aimed to inform the president about recent dangers cited one of the controversial complaints.
+Hyosik-C;30;The media won't say which law the memo that had aimed to inform the president about recent dangers cited.
+Hyosik-D;30;The media won't say which complaints the memo that had aimed to inform the president about recent dangers cited.
+Hyosik-A;31;Mary didn't tell me which customer, but the local farmer that had harvested seasonal crops bought some of the desserts from the grocery store.
+Hyosik-B;31;Mary didn't tell me which pumpkins, but the local farmer that had harvested seasonal crops bought some of the pumpkins from the grocery store.
+Hyosik-C;31;Mary didn't tell me which customer the local farmer that had harvested seasonal crops bought from the grocery store.
+Hyosik-D;31;Mary didn't tell me which pumpkins the local farmer that had harvested seasonal crops bought from the grocery store.
+Hyosik-A;32;I do not know which kid, but the energetic child that planted gardens for his neighbors climbed one of the ladders outside the hardware store.
+Hyosik-B;32;I do not know which tree, but the energetic child that planted gardens for his neighbors climbed one of the trees outside the hardware store.
+Hyosik-C;32;I do not know which kid the energetic child that planted gardens for his neighbors climbed outside the hardware store.
+Hyosik-D;32;I do not know which tree the energetic child that planted gardens for his neighbors climbed outside the hardware store.
+how_each_a;33;How many books each do the teachers assign the students for the final paper?
+how_each_b;33;How many books each does the teacher assign the students for the final paper?
+how_each_c;33;How many books total do the teachers assign the students for the final paper?
+how_each_d;33;How many books total does the teacher assign the students for the final papers?
+embed_subj_a;34;The TAs who the teachers can trust will assign the student three books each for the final paper.
+embed_subj_b;34;The TAs who the teacher can trust will assign the student three books each for the final paper.
+embed_subj_c;34;The TA who the teachers can trust will assign the student three books each for the final paper.
+embed_subj_d;34;The TA who the teacher can trust will assign the student three books each for the final paper.

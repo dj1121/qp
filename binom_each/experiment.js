@@ -32,6 +32,11 @@ newText("<p><a href='https://app.prolific.co/submissions/complete?cc=9218A125' t
         .wait()
 );
 
+//for G-maze
+var shuffleSequence = seq("consent","background", "intro-gram", "intro-practice", followEachWith("sep", "practice"), "end-practice", sepWith("sep",rshuffle(startsWith("CR-Pred"),startsWith("CR-Amb"), startsWith("MD"), startsWith("Hyosik"))), "send", "final");
+
+var showProgressBar =true;
+
 var items = [
 	["intro-gram", "Message", {html: "<p>For this experiment, please place your left index finger on the 'e' key and your right index finger on the 'i' key.</p><p> You will read sentences word by word. On each screen you will see two options: one will be the next word in the sentence, and one will not. Select the word that continues the sentence by pressing 'e' (left-hand) for the word on the left or pressing 'i' (right-hand) for the word on the right. An error message will appear if you click a wrong answer and then the next sentence will appear.</p><p>Select the best word as quickly as you can, but without making too many errors.</p>"}],
 	["intro-practice", "Message", {html: "The following items are for practice." }], // how does this know to connect to practice items?
@@ -39,7 +44,7 @@ var items = [
 	["sep", "MazeSeparator", {normalMessage: "Correct! Press any key to continue", errorMessage: "Incorrect! Press any key to continue."}],
 	["done", "Message", {html: "All done!"}],
     
-    // 1st Box = Condition Name + Number (4 items per condition (2*2 manipulation)) (Each participants gets random assignment of item from each condition)
+    // 1st Box = Experiment Name + Condition +  Number (4 items per condition (2*2 manipulation)) (Each participants gets random assignment of item from each condition)
     // 2nd Box = Type (Maze)
     // 3rd box = Real sentence (Different for all items of the condition)
     // 4th box = Distractor sentence (Same for all of the items in a condition)
