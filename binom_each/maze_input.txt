@@ -242,6 +242,10 @@ how_soon_a;61;How soon after ably and adeptly treating one victim each, based on
 how_soon_b;61;How soon after ably and adeptly treating one victim each, based on the news, does the fire chief believe that the tired firefighters could return to the station?
 how_soon_c;61;How soon after the EMTs treating one victim each, based on the news, do the fire chiefs believe that the tired firefighters could return to the station?
 how_soon_d;61;How soon after the EMTs treating one victim each, based on the news, does the fire chief believe that the tired firefighters could return to the station?
+how_soon_a;62;How soon after haphazardly?? finishing one house each, according to the sheriff, do the police officers believe that the dishonest carpenters stole the jewelry?
+how_soon_b;62;How soon after haphazardly?? finishing one house each, according to the sheriff, does the police officer believe that the dishonest carpenters stole the jewelry?
+how_soon_c;62;How soon after the painters finishing one house each, according to the sheriff, do the police officers believe that the dishonest carpenters stole the jewelry?
+how_soon_d;62;How soon after the painters finishing one house each, according to the sheriff, does the police officer believe that the dishonest carpenters stole the jewelry?
 
 
 
