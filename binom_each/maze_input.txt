@@ -147,89 +147,89 @@ how_many_b;37;How many ducks each, based on the estimates, does the strong and b
 how_many_c;37;How many ducks total, based on the estimates, do the strong and brave hunters prepare for the kids to eat? 
 how_many_d;37;How many ducks total, based on the estimates, does the strong and brave hunter prepare for the kids to eat?
 how_many_a;38;How many signed basketballs each, according to the coach, do the successful and famous players hand out to the fans at the event?
-how_many_b;38;How many signed basketballs each, according to the coach, does that successful and famous player hand out to the fans at the event?
+how_many_b;38;How many signed basketballs each, according to the coach, does the successful and famous player hand out to the fans at the event?
 how_many_c;38;How many signed basketballs total, according to the coach, do the successful and famous players hand out to the fans at the event?
-how_many_d;38;How many signed basketballs total, according to the coach, does that successful and famous player hand out to the fans at the event?
+how_many_d;38;How many signed basketballs total, according to the coach, does the successful and famous player hand out to the fans at the event?
 how_many_a;39;How many backpacks each, according to the nonprofit, do the compassionate and warmhearted volunteers distribute to the kids per day?
-how_many_b;39;How many backpacks each, according to the nonprofit, does that compassionate and warmhearted volunteer distribute to the kids per day?
+how_many_b;39;How many backpacks each, according to the nonprofit, does the compassionate and warmhearted volunteer distribute to the kids per day?
 how_many_c;39;How many backpacks total, according to the nonprofit, do the compassionate and warmhearted volunteers distribute to the kids per day?
-how_many_d;39;How many backpacks total, according to the nonprofit, does that compassionate and warmhearted volunteer distribute to the kids per day?
+how_many_d;39;How many backpacks total, according to the nonprofit, does the compassionate and warmhearted volunteer distribute to the kids per day?
 how_many_a;40;How many shoes each, based on the sales report, do the persuasive and cunning clerks sell the customers on average?
-how_many_b;40;How many shoes each, based on the sales report, does that persuasive and cunning clerk sell the customers on average?
+how_many_b;40;How many shoes each, based on the sales report, does the persuasive and cunning clerk sell the customers on average?
 how_many_c;40;How many shoes total, based on the sales report, do the persuasive and cunning clerks sell the customers on average?
-how_many_d;40;How many shoes total, based on the sales report, does that persuasive and cunning clerk sell the customers on average?
+how_many_d;40;How many shoes total, based on the sales report, does the persuasive and cunning clerk sell the customers on average?
 how_many_a;41;How many printers each, based on the report, do the hardworking and untiring delivery workers deliver to the offices on a normal day?
-how_many_b;41;How many printers each, based on the report, does that hardworking and untiring delivery worker deliver to the offices on a normal day?
+how_many_b;41;How many printers each, based on the report, does the hardworking and untiring delivery worker deliver to the offices on a normal day?
 how_many_c;41;How many printers total, based on the report, do the hardworking and untiring delivery workers deliver to the offices on a normal day?
-how_many_d;41;How many printers total, based on the report, does that hardworking and untiring delivery worker deliver to the offices on a normal day?
+how_many_d;41;How many printers total, based on the report, does the hardworking and untiring delivery worker deliver to the offices on a normal day?
 how_many_a;42;How many pianos each, according to the organizer, do the diligent and eager crewpeople prepare for the stages on a typical weekend?
-how_many_b;42;How many pianos each, according to the organizer, does that diligent and eager crewperson prepare for the stages on a typical weekend?
+how_many_b;42;How many pianos each, according to the organizer, does the diligent and eager crewperson prepare for the stages on a typical weekend?
 how_many_c;42;How many pianos total, according to the organizer, do the diligent and eager crewpeople prepare for the stages on a typical weekend?
-how_many_d;42;How many pianos total, according to the organizer, does that diligent and eager crewperson worker prepare for the stages on a typical weekend?
+how_many_d;42;How many pianos total, according to the organizer, does the diligent and eager crewperson worker prepare for the stages on a typical weekend?
 how_many_a;43;How many soccer balls each, according to the coach, do the boisterous and unruly kids kick to the trainers at practice?
-how_many_b;43;How many soccer balls each, according to the coach, does that boisterous and unruly kid kick to the trainers at practice?
+how_many_b;43;How many soccer balls each, according to the coach, does the boisterous and unruly kid kick to the trainers at practice?
 how_many_c;43;How many soccer balls total, according to the coach, do the boisterous and unruly kids kick to the trainers at practice?
-how_many_d;43;How many soccer balls total, according to the coach, does that boisterous and unruly kid kick to the trainers at practice?
+how_many_d;43;How many soccer balls total, according to the coach, does the boisterous and unruly kid kick to the trainers at practice?
 how_many_a;44;How many apartments each, according to the landlord, do the diligent and honest cleaners clean for the tenants in the building?
-how_many_b;44;How many apartments each, according to the landlord, does that diligent and honest cleaner clean for the tenants in the building?
+how_many_b;44;How many apartments each, according to the landlord, does the diligent and honest cleaner clean for the tenants in the building?
 how_many_c;44;How many apartments total, according to the landlord, do the diligent and honest cleaners clean for the tenants in the building?
-how_many_d;44;How many apartments total, according to the landlord, does that diligent and honest cleaner clean for the tenants in the building?
+how_many_d;44;How many apartments total, according to the landlord, does the diligent and honest cleaner clean for the tenants in the building?
 how_many_a;45;How many packages each, according to the post office, do the goodhearted and helpful drivers deliver to the mailboxes per day?
-how_many_b;45;How many packages each, according to the post office, does that goodhearted and helpful driver deliver to the mailboxes per day?
+how_many_b;45;How many packages each, according to the post office, does the goodhearted and helpful driver deliver to the mailboxes per day?
 how_many_c;45;How many packages total, according to the post office, do the goodhearted and helpful drivers deliver to the mailboxes per day?
-how_many_d;45;How many packages total, according to the post office, does that goodhearted and helpful driver deliver to the mailboxes per day?
-how_many_a;46;How many shots each, over one month, do the highly-educated and skilled vets administer to the cats in the downtown office?
-how_many_b;46;How many shots each, over one month, does that highly-educated and skilled vet administer to the cats in the downtown office?
-how_many_c;46;How many shots total, over one month, do the highly-educated and skilled vets administer to the cats in the downtown office?
-how_many_d;46;How many shots total, over one month, does that highly-educated and skilled vet administer to the cats in the downtown office?
+how_many_d;45;How many packages total, according to the post office, does the goodhearted and helpful driver deliver to the mailboxes per day?
+how_many_a;46;How many shots each, over one month, do the highly educated and skilled vets administer to the cats in the downtown office?
+how_many_b;46;How many shots each, over one month, does the highly educated and skilled vet administer to the cats in the downtown office?
+how_many_c;46;How many shots total, over one month, do the highly educated and skilled vets administer to the cats in the downtown office?
+how_many_d;46;How many shots total, over one month, does the highly educated and skilled vet administer to the cats in the downtown office?
 how_many_a;47;How many accessories each, based on the performance report, do the talkative and suave car salesmen sell the customers on a good day?
-how_many_b;47;How many accessories each, based on the performance report, does that talkative and suave car salesman sell the customers on a good day?
+how_many_b;47;How many accessories each, based on the performance report, does the talkative and suave car salesman sell the customers on a good day?
 how_many_c;47;How many accessories total, based on the performance report, do the talkative and suave car salesmen sell the customers on a good day?
-how_many_d;47;How many accessories total, based on the performance report, does that talkative and suave car salesman sell the customers on a good day?
+how_many_d;47;How many accessories total, based on the performance report, does the talkative and suave car salesman sell the customers on a good day?
 how_many_a;48;How many gaming consoles each, according to mom, do the loving and supportive grandparents give to the kids on a typical holiday?
-how_many_b;48;How many gaming consoles each, according to mom, does that loving and supportive grandparent give to the kids on a typical holiday?
+how_many_b;48;How many gaming consoles each, according to mom, does the loving and supportive grandparent give to the kids on a typical holiday?
 how_many_c;48;How many gaming consoles total, according to mom, do the loving and supportive grandparents give to the kids on a typical holiday?
-how_many_d;48;How many gaming consoles total, according to mom, does that loving and supportive grandparent give to the kids on a typical holiday?
-how_many_a;49;How many suitcases each, according to the captain, do the well-rested and fresh flight attendants store in the overhead bins on a typical flight?
-how_many_b;49;How many suitcases each, according to the captain, does that well-rested and fresh flight attendant store in the overhead bins on a typical flight?
-how_many_c;49;How many suitcases total, according to the captain, do the well-rested and fresh flight attendants store in the overhead bins on a typical flight?
-how_many_d;49;How many suitcases total, according to the captain, does that well-rested and fresh flight attendant store in the overhead bins on a typical flight?
-how_many_a;50;How many flights each, according to the head engineer, do the well-trained and skilled technicians fuel the planes for on holiday weekends? 
-how_many_b;50;How many flights each, according to the head engineer, does that well-trained and skilled technician fuel the planes for on holiday weekends? 
-how_many_c;50;How many flights total, according to the head engineer, do the well-trained and skilled technicians fuel the planes for on holiday weekends? 
-how_many_d;50;How many flights total, according to the head engineer, does that well-trained and skilled technician fuel the planes for on holiday weekends?
-how_many_a;51;How many matches each, according to the head doctor, do the well-read and patient physical therapists prepare the athletes for in a usual season? 
-how_many_b;51;How many matches each, according to the head doctor, does that well-read and patient physical therapist prepare the athletes for in a usual season? 
-how_many_c;51;How many matches total, according to the head doctor, do the well-read and patient physical therapists prepare the athletes for in a usual season?
-how_many_d;51;How many matches total, according to the head doctor, does that well-read and patient physical therapist prepare the athletes for in a usual season?
+how_many_d;48;How many gaming consoles total, according to mom, does the loving and supportive grandparent give to the kids on a typical holiday?
+how_many_a;49;How many suitcases each, according to the captain, do the well rested and fresh flight attendants store in the overhead bins on a typical flight?
+how_many_b;49;How many suitcases each, according to the captain, does the well rested and fresh flight attendant store in the overhead bins on a typical flight?
+how_many_c;49;How many suitcases total, according to the captain, do the well rested and fresh flight attendants store in the overhead bins on a typical flight?
+how_many_d;49;How many suitcases total, according to the captain, does the well rested and fresh flight attendant store in the overhead bins on a typical flight?
+how_many_a;50;How many flights each, according to the head engineer, do the well trained and skilled technicians fuel the planes for on holiday weekends? 
+how_many_b;50;How many flights each, according to the head engineer, does the well trained and skilled technician fuel the planes for on holiday weekends? 
+how_many_c;50;How many flights total, according to the head engineer, do the well trained and skilled technicians fuel the planes for on holiday weekends? 
+how_many_d;50;How many flights total, according to the head engineer, does the well trained and skilled technician fuel the planes for on holiday weekends?
+how_many_a;51;How many matches each, according to the head doctor, do the well read and patient physical therapists prepare the athletes for in a usual season? 
+how_many_b;51;How many matches each, according to the head doctor, does the well read and patient physical therapist prepare the athletes for in a usual season? 
+how_many_c;51;How many matches total, according to the head doctor, do the well read and patient physical therapists prepare the athletes for in a usual season?
+how_many_d;51;How many matches total, according to the head doctor, does the well read and patient physical therapist prepare the athletes for in a usual season?
 how_many_a;52;How many packages each, according to the landlord, do the cruel and reckless thieves steal from the tenants in a given week? 
-how_many_b;52;How many packages each, according to the landlord, does that cruel and reckless thief steal from the tenants in a given week? 
+how_many_b;52;How many packages each, according to the landlord, does the cruel and reckless thief steal from the tenants in a given week? 
 how_many_c;52;How many packages total, according to the landlord, do the cruel and reckless thieves steal from the tenants in a given week? 
-how_many_d;52;How many packages total, according to the landlord, does that cruel and reckless thief steal from the tenants in a given week?
+how_many_d;52;How many packages total, according to the landlord, does the cruel and reckless thief steal from the tenants in a given week?
 how_many_a;53;How many beds each, according to the hotel owner, do the organized and speedy housekeepers make for the guests on a given day? 
-how_many_b;53;How many beds each, according to the hotel owner, does that organized and speedy housekeeper make for the guests on a given day? 
+how_many_b;53;How many beds each, according to the hotel owner, does the organized and speedy housekeeper make for the guests on a given day? 
 how_many_c;53;How many beds total, according to the hotel owner, do the organized and speedy housekeepers make for the guests on a given day? 
-how_many_d;53;How many beds total, according to the hotel owner, does that organized and speedy housekeeper make for the guests on a given day? 
+how_many_d;53;How many beds total, according to the hotel owner, does the organized and speedy housekeeper make for the guests on a given day? 
 how_many_a;54;How many parts each, according to the factory boss, do the tired but efficient assembly line workers make for the cars in a normal week? 
-how_many_b;54;How many parts each, according to the factory boss, does that tired but efficient assembly line worker make for the cars in a normal week? 
+how_many_b;54;How many parts each, according to the factory boss, does the tired but efficient assembly line worker make for the cars in a normal week? 
 how_many_c;54;How many parts total, according to the factory boss, do the tired but efficient assembly line workers make for the cars in a normal week? 
-how_many_d;54;How many parts total, according to the factory boss, does that tired but efficient assembly line worker make for the cars in a normal week? 
-how_many_a;55;How many glasses of wine each, according to the restaurant owner, do the newly-hired but hardworking waiters pour for the customers on a busy night?
-how_many_b;55;How many glasses of wine each, according to the restaurant owner, does that newly-hired but hardworking waiter pour for the customers on a busy night?
-how_many_c;55;How many glasses of wine total, according to the restaurant owner, do the newly-hired but hardworking waiters pour for the customers on a busy night?
-how_many_d;55;How many glasses of wine total, according to the restaurant owner, does that newly-hired but hardworking waiter pour for the customers on a busy night?
+how_many_d;54;How many parts total, according to the factory boss, does the tired but efficient assembly line worker make for the cars in a normal week? 
+how_many_a;55;How many glasses of wine each, according to the restaurant owner, do the newly hired but hardworking waiters pour for the customers on a busy night?
+how_many_b;55;How many glasses of wine each, according to the restaurant owner, does the newly hired but hardworking waiter pour for the customers on a busy night?
+how_many_c;55;How many glasses of wine total, according to the restaurant owner, do the newly hired but hardworking waiters pour for the customers on a busy night?
+how_many_d;55;How many glasses of wine total, according to the restaurant owner, does the newly hired but hardworking waiter pour for the customers on a busy night?
 how_many_a;56;How many miles each, according to the manufacturer, do the thorough and attentive test drivers drive the cars before the release date?
-how_many_b;56;How many miles each, according to the manufacturer, does that thorough and attentive test driver drive the cars before the release date?
+how_many_b;56;How many miles each, according to the manufacturer, does the thorough and attentive test driver drive the cars before the release date?
 how_many_c;56;How many miles total, according to the manufacturer, do the thorough and attentive test drivers drive the cars before the release date?
-how_many_d;56;How many miles total, according to the manufacturer, does that thorough and attentive test driver drive the cars before the release date?
+how_many_d;56;How many miles total, according to the manufacturer, does the thorough and attentive test driver drive the cars before the release date?
 how_soon_a;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, do the detectives believe that the local gang members fled town?
 how_soon_b;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, does the detective believe that the local gang members fled town?
 how_soon_c;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, do the detectives believe that the local gang members fled town?
 how_soon_d;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, does the detective believe that the local gang members fled town?
-how_soon_a;58;How soon after carefully and steadily completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly-trained nurses left the room?
-how_soon_b;58;How soon after carefully and steadily completing two procedures each, given the circumstances, does the patient in the waiting room believe that the newly-trained nurses left the room?
-how_soon_c;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly-trained nurses left the room?
-how_soon_d;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, does the patient in the waiting room believe that the newly-trained nurses left the room?
+how_soon_a;58;How soon after carefully and steadily completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly trained nurses left the room?
+how_soon_b;58;How soon after carefully and steadily completing two procedures each, given the circumstances, does the patient in the waiting room believe that the newly trained nurses left the room?
+how_soon_c;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly trained nurses left the room?
+how_soon_d;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, does the patient in the waiting room believe that the newly trained nurses left the room?
 how_soon_a;59;How soon after expertly and aptly preparing five dishes each, given the difficulty, do the waiters believe that the hardworking kitchen staff members were ready for a break? 
 how_soon_b;59;How soon after expertly and aptly preparing five dishes each, given the difficulty, does the waiter believe that the hardworking kitchen staff members were ready for a break? 
 how_soon_c;59;How soon after the talented chefs preparing five dishes each, given the difficulty, do the waiters believe that the hardworking kitchen staff members were ready for a break? 
@@ -247,9 +247,9 @@ how_soon_b;62;How soon after haphazardly?? finishing one house each, according t
 how_soon_c;62;How soon after the painters finishing one house each, according to the sheriff, do the police officers believe that the dishonest carpenters stole the jewelry?
 how_soon_d;62;How soon after the painters finishing one house each, according to the sheriff, does the police officer believe that the dishonest carpenters stole the jewelry?
 
+replace adj and adj with adj but adj
 
-- replace that with "the"
-- put adjectives in front 
+- put two adjectives in front 
 - avoid hyphen compounds
 
 79
