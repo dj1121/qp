@@ -222,10 +222,10 @@ how_many_a;56;How many miles each, according to the manufacturer, do the fast bu
 how_many_b;56;How many miles each, according to the manufacturer, does the fast but inattentive test driver drive the cars before the release date?
 how_many_c;56;How many miles total, according to the manufacturer, do the fast but inattentive test drivers drive the cars before the release date?
 how_many_d;56;How many miles total, according to the manufacturer, does the fast but inattentive test driver drive the cars before the release date?
-how_soon_a;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, do the detectives believe that the local gang members fled town?
-how_soon_b;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, does the detective believe that the local gang members fled town?
-how_soon_c;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, do the detectives believe that the local gang members fled town?
-how_soon_d;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, does the detective believe that the local gang members fled town?
+how_soon_a;57;How soon after quickly and clumsily committing two robberies each, in light of the evidence, do the detectives believe that the local gang members fled town?
+how_soon_b;57;How soon after quickly and clumsily committing two robberies each, in light of the evidence, does the detective believe that the local gang members fled town?
+how_soon_c;57;How soon after the clumsy criminals committing two robberies each, in light of the evidence, do the detectives believe that the local gang members fled town?
+how_soon_d;57;How soon after the clumsy criminals committing two robberies each, in light of the evidence, does the detective believe that the local gang members fled town?
 how_soon_a;58;How soon after carefully and steadily completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly trained nurses left the room?
 how_soon_b;58;How soon after carefully and steadily completing two procedures each, given the circumstances, does the patient in the waiting room believe that the newly trained nurses left the room?
 how_soon_c;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly trained nurses left the room?
