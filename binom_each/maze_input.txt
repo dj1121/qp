@@ -126,132 +126,235 @@ Hyosik-A;32;I do not know which kid, but the energetic child that planted garden
 Hyosik-B;32;I do not know which tree, but the energetic child that planted gardens for his neighbors climbed one of the trees outside the hardware store.
 Hyosik-C;32;I do not know which kid the energetic child that planted gardens for his neighbors climbed outside the hardware store.
 Hyosik-D;32;I do not know which tree the energetic child that planted gardens for his neighbors climbed outside the hardware store.
-how_many_a;33;How many books each, based on the syllabus, do the strict but kind teachers assign the students for the final paper? 
-how_many_b;33;How many books each, based on the syllabus, does the strict but kind teacher assign the students for the final paper?
-how_many_c;33;How many books total, based on the syllabus, do the strict but kind teachers assign the students for the final paper?
-how_many_d;33;How many books total, based on the syllabus, does the strict but kind teacher assign the students for the final paper?
-how_many_a;34;How many dishes each, according to the workday, do the cruel but successful managers assign the kitchen workers for washing? 
-how_many_b;34;How many dishes each, according to the workday, does the cruel but successful manager assign the kitchen workers for washing?
-how_many_c;34;How many dishes total, according to the workday, do the cruel but successful managers assign the kitchen workers for washing?
-how_many_d;34;How many dishes total, according to the workday, does the cruel but successful manager assign the kitchen workers for washing?
-how_many_a;35;How many dogs each, according to the spreadsheet, do the pushy but successful owners send the groomers for a trim? 
-how_many_b;35;How many dogs each, according to the spreadsheet, does the pushy but successful owner send the groomers for a trim?
-how_many_c;35;How many dogs total, according to the spreadsheet, do the pushy but successful owners send the groomers for a trim?
-how_many_d;35;How many dogs total, according to the spreadsheet, does the pushy but successful owner send the groomers for a trim?
-how_many_a;36;How many rations each, while supplies last, do the kind but scary soldiers give the refugees to eat? 
-how_many_b;36;How many rations each, while supplies last, does the kind but scary soldier give the refugees to eat?
-how_many_c;36;How many rations total, while supplies last, do the kind but scary soldiers give the refugees to eat?
-how_many_d;36;How many rations total, while supplies last, does the kind but scary soldier give the refugees to eat?
-how_many_a;37;How many ducks each, based on the estimates, do the old but strong hunters cook the kids for dinner? 
-how_many_b;37;How many ducks each, based on the estimates, does the old but strong hunter cook the kids for dinner? 
-how_many_c;37;How many ducks total, based on the estimates, do the old but strong hunters cook the kids for dinner? 
-how_many_d;37;How many ducks total, based on the estimates, does the old but strong hunter cook the kids for dinner?
-how_many_a;38;How many signed basketballs each, according to the coach, do the unsuccessful but famous players hand the fans at the event?
-how_many_b;38;How many signed basketballs each, according to the coach, does the unsuccessful but famous player hand the fans at the event?
-how_many_c;38;How many signed basketballs total, according to the coach, do the unsuccessful but famous players hand the fans at the event?
-how_many_d;38;How many signed basketballs total, according to the coach, does the unsuccessful but famous player hand the fans at the event?
-how_many_a;39;How many backpacks each, according to the nonprofit, do the busy but warmhearted volunteers distribute the kids per day?
-how_many_b;39;How many backpacks each, according to the nonprofit, does the busy but warmhearted volunteer distribute the kids per day?
-how_many_c;39;How many backpacks total, according to the nonprofit, do the busy but warmhearted volunteers distribute the kids per day?
-how_many_d;39;How many backpacks total, according to the nonprofit, does the busy but warmhearted volunteer distribute the kids per day?
-how_many_a;40;How many shoes each, based on the sales report, do the friendly but persuasive clerks sell the customers on average?
-how_many_b;40;How many shoes each, based on the sales report, does the friendly but persuasive clerk sell the customers on average?
-how_many_c;40;How many shoes total, based on the sales report, do the friendly but persuasive clerks sell the customers on average?
-how_many_d;40;How many shoes total, based on the sales report, does the friendly but persuasive clerk sell the customers on average?
-how_many_a;41;How many printers each, based on the report, do the hardworking but untiring delivery workers deliver the offices on a normal day?
-how_many_b;41;How many printers each, based on the report, does the hardworking but untiring delivery worker deliver the offices on a normal day?
-how_many_c;41;How many printers total, based on the report, do the hardworking but untiring delivery workers deliver the offices on a normal day?
-how_many_d;41;How many printers total, based on the report, does the hardworking but untiring delivery worker deliver the offices on a normal day?
-how_many_a;42;How many pianos each, according to the workers, do the tired but eager bosses send the concert halls on a typical weekend?
-how_many_b;42;How many pianos each, according to the workers, does the tired but eager boss send the concert halls on a typical weekend?
-how_many_c;42;How many pianos total, according to the workers, do the tired but eager bosses send the concert halls on a typical weekend?
-how_many_d;42;How many pianos total, according to the workers, does the tired but eager boss send the concert halls on a typical weekend?
-how_many_a;43;How many soccer balls each, according to the coach, do the talented but unruly kids kick the trainers at practice?
-how_many_b;43;How many soccer balls each, according to the coach, does the talented but unruly kid kick the trainers at practice?
-how_many_c;43;How many soccer balls total, according to the coach, do the talented but unruly kids kick the trainers at practice?
-how_many_d;43;How many soccer balls total, according to the coach, does the talented but unruly kid kick the trainers at practice?
-how_many_a;44;How many letters each, according to the landlord, do the diligent but dishonest desk workers give the tenants in the building?
-how_many_b;44;How many letters each, according to the landlord, does the diligent but dishonest desk worker give the tenants in the building?
-how_many_c;44;How many letters total, according to the landlord, do the diligent but dishonest desk workers give the tenants in the building?
-how_many_d;44;How many letters total, according to the landlord, does the diligent but dishonest desk worker give the tenants in the building?
-how_many_a;45;How many packages each, according to the post office, do the goodhearted but unhelpful drivers deliver the residents per day?
-how_many_b;45;How many packages each, according to the post office, does the goodhearted but unhelpful driver deliver the residents per day?
-how_many_c;45;How many packages total, according to the post office, do the goodhearted but unhelpful drivers deliver the residents per day?
-how_many_d;45;How many packages total, according to the post office, does the goodhearted but unhelpful driver deliver the residents per day?
-how_many_a;46;How many shots each, over one month, do the newly trained but skilled veterinarians administer the cats in the downtown office?
-how_many_b;46;How many shots each, over one month, does the newly trained but skilled veterinarian administer the cats in the downtown office?
-how_many_c;46;How many shots total, over one month, do the newly trained but skilled veterinarians administer the cats in the downtown office?
-how_many_d;46;How many shots total, over one month, does the newly trained but skilled veterinarian administer the cats in the downtown office?
-how_many_a;47;How many accessories each, based on the performance report, do the easygoing but deceptive car salesmen sell the customers on a good day?
-how_many_b;47;How many accessories each, based on the performance report, does the easygoing but deceptive car salesman sell the customers on a good day?
-how_many_c;47;How many accessories total, based on the performance report, do the easygoing but deceptive car salesmen sell the customers on a good day?
-how_many_d;47;How many accessories total, based on the performance report, does the easygoing but deceptive car salesman sell the customers on a good day?
-how_many_a;48;How many gaming consoles each, according to the mother, do the loving but unsupportive grandparents give the kids on a typical holiday?
-how_many_b;48;How many gaming consoles each, according to the mother, does the loving but unsupportive grandparent give the kids on a typical holiday?
-how_many_c;48;How many gaming consoles total, according to the mother, do the loving but unsupportive grandparents give the kids on a typical holiday?
-how_many_d;48;How many gaming consoles total, according to the mother, does the loving but unsupportive grandparent give the kids on a typical holiday?
-how_many_a;49;How many drinks each, according to the captain, do the jetlagged but diligent attendants pour the passengers on a typical flight?
-how_many_b;49;How many drinks each, according to the captain, does the jetlagged but diligent flight attendant pour the passengers on a typical flight?
-how_many_c;49;How many drinks total, according to the captain, do the jetlagged but diligent flight attendants pour the passengers on a typical flight?
-how_many_d;49;How many drinks total, according to the captain, does the jetlagged but diligent flight attendant pour the passengers on a typical flight?
-how_many_a;50;How many spare parts each, according to the head engineer, do the slow but reliable suppliers deliver the technicians on holiday weekends? 
-how_many_b;50;How many spare parts each, according to the head engineer, does the slow but reliable supplier deliver the technicians on holiday weekends? 
-how_many_c;50;How many spare parts total, according to the head engineer, do the slow but reliable suppliers deliver the technicians on holiday weekends? 
-how_many_d;50;How many spare parts total, according to the head engineer, does the slow but reliable supplier deliver the technicians on holiday weekends?
-how_many_a;51;How many supplements each, according to the head doctor, do the busy but patient physical therapists give the athletes in a usual season? 
-how_many_b;51;How many supplements each, according to the head doctor, does the busy but patient physical therapist give the athletes in a usual season? 
-how_many_c;51;How many supplements total, according to the head doctor, do the busy but patient physical therapists give the athletes in a usual season?
-how_many_d;51;How many supplements total, according to the head doctor, does the busy but patient physical therapist give the athletes in a usual season?
-how_many_a;52;How many packages each, according to the landlord, do the cruel but sloppy thieves cost the tenants in a given week? 
-how_many_b;52;How many packages each, according to the landlord, does the cruel but sloppy thief cost the tenants in a given week? 
-how_many_c;52;How many packages total, according to the landlord, do the cruel but sloppy thieves cost the tenants in a given week? 
-how_many_d;52;How many packages total, according to the landlord, does the cruel but sloppy thief cost the tenants in a given week?
-how_many_a;53;How many beds each, according to the hotel owner, do the organized but slow housekeepers make the guests on a given day? 
-how_many_b;53;How many beds each, according to the hotel owner, does the organized but slow housekeeper make the guests on a given day? 
-how_many_c;53;How many beds total, according to the hotel owner, do the organized but slow housekeepers make the guests on a given day? 
-how_many_d;53;How many beds total, according to the hotel owner, does the organized but slow housekeeper make the guests on a given day? 
-how_many_a;54;How many parts each, according to the factory boss, do the tired but efficient assembly line workers make the cars in a normal week? 
-how_many_b;54;How many parts each, according to the factory boss, does the tired but efficient assembly line worker make the cars in a normal week? 
-how_many_c;54;How many parts total, according to the factory boss, do the tired but efficient assembly line workers make the cars in a normal week? 
-how_many_d;54;How many parts total, according to the factory boss, does the tired but efficient assembly line worker make the cars in a normal week? 
-how_many_a;55;How many bottles of wine each, according to the restaurant owner, do the newly hired but hardworking waiters open the customers on a busy night?
-how_many_b;55;How many bottles of wine each, according to the restaurant owner, does the newly hired but hardworking waiter open the customers on a busy night?
-how_many_c;55;How many bottles of wine total, according to the restaurant owner, do the newly hired but hardworking waiters open the customers on a busy night?
-how_many_d;55;How many bottles of wine total, according to the restaurant owner, does the newly hired but hardworking waiter open the customers on a busy night?
-how_many_a;56;How many miles each, according to the manufacturer, do the fast but inattentive test drivers drive the cars before the release date?
-how_many_b;56;How many miles each, according to the manufacturer, does the fast but inattentive test driver drive the cars before the release date?
-how_many_c;56;How many miles total, according to the manufacturer, do the fast but inattentive test drivers drive the cars before the release date?
-how_many_d;56;How many miles total, according to the manufacturer, does the fast but inattentive test driver drive the cars before the release date?
-
-how_soon_a;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, do the .... detectives believe that the local gang members fled town?
-how_soon_b;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, does the .... detective believe that the local gang members fled town?
-how_soon_c;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, do the .... detectives believe that the local gang members fled town?
-how_soon_d;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, does the .... detective believe that the local gang members fled town?
-
-how_soon_a;58;How soon after carefully and steadily completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly trained nurses left the room?
-how_soon_b;58;How soon after carefully and steadily completing two procedures each, given the circumstances, does the patient in the waiting room believe that the newly trained nurses left the room?
-how_soon_c;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, do the patients in the waiting room believe that the newly trained nurses left the room?
-how_soon_d;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, does the patient in the waiting room believe that the newly trained nurses left the room?
-
-how_soon_a;59;How soon after expertly and aptly preparing five dishes each, given the difficulty, do the waiters believe that the hardworking kitchen staff members were ready for a break? 
-how_soon_b;59;How soon after expertly and aptly preparing five dishes each, given the difficulty, does the waiter believe that the hardworking kitchen staff members were ready for a break? 
-how_soon_c;59;How soon after the talented chefs preparing five dishes each, given the difficulty, do the waiters believe that the hardworking kitchen staff members were ready for a break? 
-how_soon_d;59;How soon after the talented chefs preparing five dishes each, given the difficulty, does the waiter believe that the hardworking kitchen staff members were ready for a break?
-
-how_soon_a;60;How soon after irresponsibly and hastily breaking two parts each, in light of the severity, do the crewmembers believe that the overworked senior technicians would be punished?
-how_soon_b;60;How soon after irresponsibly and hastily breaking two parts each, in light of the severity, does the crewmember believe that the overworked senior technicians would be punished?
-how_soon_c;60;How soon after the inproficient trainees breaking two parts each, in light of the severity, do the crewmembers believe that the overworked senior technicians would be punished?
-how_soon_d;60;How soon after the inproficient trainees breaking two parts each, in light of the severity, does the crewmember believe that the overworked senior technicians would be punished?
-
-how_soon_a;61;How soon after ably and adeptly treating one victim each, based on the news, do the xxxxxxx chiefs believe that the tired firefighters could return to the station?
-how_soon_b;61;How soon after ably and adeptly treating one victim each, based on the news, does the fire chief believe that the tired firefighters could return to the station?
-how_soon_c;61;How soon after the EMTs treating one victim each, based on the news, do the fire chiefs believe that the tired firefighters could return to the station?
-how_soon_d;61;How soon after the EMTs treating one victim each, based on the news, does the fire chief believe that the tired firefighters could return to the station?
-
-how_soon_a;62;How soon after haphazardly?? finishing one house each, according to the sheriff, do the police officers believe that the dishonest carpenters stole the jewelry?
-how_soon_b;62;How soon after haphazardly?? finishing one house each, according to the sheriff, does the police officer believe that the dishonest carpenters stole the jewelry?
-how_soon_c;62;How soon after the painters finishing one house each, according to the sheriff, do the police officers believe that the dishonest carpenters stole the jewelry?
-how_soon_d;62;How soon after the painters finishing one house each, according to the sheriff, does the police officer believe that the dishonest carpenters stole the jewelry?
+how_many_a;33;How many candies each, based on past years, do the loving but strict parents believe that the students receive at the end of the year?
+how_many_b;33;How many candies each, based on past years, does the loving but strict parent believe that the students receive at the end of the year?
+how_many_c;33;How many candies total, based on past years, do the loving but strict parents believe that the students receive at the end of the year?
+how_many_d;33;How many candies total, based on past years, does the loving but strict parent believe that the students receive at the end of the year?
+how_many_a;34;How many dishes each, according to the workday, do the cruel but successful managers think that the kitchen workers wash in the large sink? 
+how_many_b;34;How many dishes each, according to the workday, does the cruel but successful manager think that the kitchen workers wash in the large sink? 
+how_many_c;34;How many dishes total, according to the workday, do the cruel but successful managers think that the kitchen workers wash in the large sink? 
+how_many_d;34;How many dishes total, according to the workday, does the cruel but successful manager think that the kitchen workers wash in the large sink? 
+how_many_a;35;How many dogs each, according to the spreadsheet, do the pushy but successful owners say that the groomers trim on a normal day? 
+how_many_b;35;How many dogs each, according to the spreadsheet, does the pushy but successful owner say that the groomers trim on a normal day? 
+how_many_c;35;How many dogs total, according to the spreadsheet, do the pushy but successful owners say that the groomers trim on a normal day? 
+how_many_d;35;How many dogs total, according to the spreadsheet, does the pushy but successful owner say that the groomers trim on a normal day? 
+how_many_a;36;How many rations each, while supplies last, do the weary but determined soldiers think that the refugees will take for the road?
+how_many_b;36;How many rations each, while supplies last, does the weary but determined soldier think that the refugees will take for the road?
+how_many_c;36;How many rations total, while supplies last, do the weary but determined soldiers think that the refugees will take for the road?
+how_many_d;36;How many rations total, while supplies last, does the weary but determined soldier think that the refugees will take for the road?
+how_many_a;37;How many ducks each, based on the estimates, do the patient but starving kids say that the hunters cook for dinner? 
+how_many_b;37;How many ducks each, based on the estimates, does the patient but starving kids say that the hunters cook for dinner? 
+how_many_c;37;How many ducks total, based on the estimates, do the patient but starving kids say that the hunters cook for dinner? 
+how_many_d;37;How many ducks total, based on the estimates, does the patient but starving kids say that the hunters cook for dinner? 
+how_many_a;38;How many signed basketballs each, according to the footage, do the unsuccessful but famous players say that the coaches hand out after a game?
+how_many_b;38;How many signed basketballs each, according to the footage, does the unsuccessful but famous player say that the coaches hand out after a game?
+how_many_c;38;How many signed basketballs total, according to the footage, do the unsuccessful but famous players say that the coaches hand out after a game?
+how_many_d;38;How many signed basketballs total, according to the footage, does the unsuccessful but famous player say that the coaches hand out after a game?
+how_many_a;39;How many backpacks each, based on the supply truck, do the busy but warmhearted volunteers think that the kids received for free?
+how_many_b;39;How many backpacks each, based on the supply truck, does the busy but warmhearted volunteer think that the kids received for free?
+how_many_c;39;How many backpacks total, based on the supply truck, do the busy but warmhearted volunteers think that the kids received for free?
+how_many_d;39;How many backpacks total, based on the supply truck, does the busy but warmhearted volunteer think that the kids received for free?
+how_many_a;40;How many shoes each, based on the sales report, do the friendly but cunning marketers think that the stores sold in the last three months?
+how_many_b;40;How many shoes each, based on the sales report, does the friendly but cunning marketer think that the stores sold in the last three months?
+how_many_c;40;How many shoes total, based on the sales report, do the friendly but cunning marketers think that the stores sold in the last three months?
+how_many_d;40;How many shoes total, based on the sales report, does the friendly but cunning marketer think that the stores sold in the last three months?
+how_many_a;41;How many printers each, based on the report, do the hardworking but untiring delivery workers say that the customers receive on a normal day?
+how_many_b;41;How many printers each, based on the report, does the hardworking but untiring delivery worker say that the customers receive on a normal day?
+how_many_c;41;How many printers total, based on the report, do the hardworking but untiring delivery workers say that the customers receive on a normal day?
+how_many_d;41;How many printers total, based on the report, does the hardworking but untiring delivery worker say that the customers receive on a normal day?
+how_many_a;42;How many pianos each, according to the emails, do the tired but eager movers say that the concert halls receive on a typical weekend?
+how_many_b;42;How many pianos each, according to the emails, does the tired but eager mover say that the concert halls receive on a typical weekend?
+how_many_c;42;How many pianos total, according to the emails, do the tired but eager movers say that the concert halls receive on a typical weekend?
+how_many_d;42;How many pianos total, according to the emails, does the tired but eager mover say that the concert halls receive on a typical weekend?
+how_many_a;43;How many soccer balls each, based on the past, do the talented but irresponsible coaches say that the kids kick at practice?
+how_many_b;43;How many soccer balls each, based on the past, does the talented but irresponsible coach say that the kids kick at practice?
+how_many_c;43;How many soccer balls total, based on the past, do the talented but irresponsible coaches say that the kids kick at practice?
+how_many_d;43;How many soccer balls total, based on the past, does the talented but irresponsible coach say that the kids kick at practice?
+how_many_a;44;How many packages each, based on the reports, do the diligent but overworked desk workers say that the thieves steal on average?
+how_many_b;44;How many packages each, based on the reports, does the diligent but overworked desk worker say that the thieves steal on average?
+how_many_c;44;How many packages total, based on the reports, do the diligent but overworked desk workers say that the thieves steal on average?
+how_many_d;44;How many packages total, based on the reports, does the diligent but overworked desk worker say that the thieves steal on average?
+how_many_a;45;How many parcels each, according to the post office, do the goodhearted but forgetful residents believe that the trucks deliver during the week?
+how_many_b;45;How many parcels each, according to the post office, does the goodhearted but forgetful resident believe that the trucks deliver during the week?
+how_many_c;45;How many parcels total, according to the post office, do the goodhearted but forgetful residents believe that the trucks deliver during the week?
+how_many_d;45;How many parcels total, according to the post office, does the goodhearted but forgetful resident believe that the trucks deliver during the week?
+how_many_a;46;How many shots each, over one month, do the cold but skilled veterinarians say that the trainees administer in the downtown office?
+how_many_b;46;How many shots each, over one month, does the cold but skilled veterinarian say that the trainees administer in the downtown office?
+how_many_c;46;How many shots total, over one month, do the cold but skilled veterinarians say that the trainees administer in the downtown office?
+how_many_d;46;How many shots total, over one month, does the cold but skilled veterinarian say that the trainees administer in the downtown office?
+how_many_a;47;How many accessories each, based on the shelves, do the easygoing but skeptical customers think that the car salesmen sell on a good day?
+how_many_b;47;How many accessories each, based on the shelves, does the easygoing but skeptical customer think that the car salesmen sell on a good day?
+how_many_c;47;How many accessories total, based on the shelves, do the easygoing but skeptical customers think that the car salesmen sell on a good day?
+how_many_d;47;How many accessories total, based on the shelves, does the easygoing but skeptical customer think that the car salesmen sell on a good day?
+how_many_a;48;How many gaming consoles each, according to the mother, do the sweet but untrustworthy kids say that the other students have?
+how_many_b;48;How many gaming consoles each, according to the mother, does the sweet but untrustworthy kid say that the other students have?
+how_many_c;48;How many gaming consoles total, according to the mother, do the sweet but untrustworthy kids say that the other students have?
+how_many_d;48;How many gaming consoles total, according to the mother, does the sweet but untrustworthy kid say that the other students have?
+how_many_a;49;How many drinks each, according to the captain, do the jetlagged but diligent flight attendants think that the passengers want on a typical flight?
+how_many_b;49;How many drinks each, according to the captain, does the jetlagged but diligent flight attendant think that the passengers want on a typical flight?
+how_many_c;49;How many drinks total, according to the captain, do the jetlagged but diligent flight attendants think that the passengers want on a typical flight?
+how_many_d;49;How many drinks total, according to the captain, does the jetlagged but diligent flight attendant think that the passengers want on a typical flight?
+how_many_a;50;How many spare parts each, according to the head engineer, do the slow but reliable suppliers say that the technicians order on holiday weekends? 
+how_many_b;50;How many spare parts each, according to the head engineer, does the slow but reliable supplier say that the technicians order on holiday weekends? 
+how_many_c;50;How many spare parts total, according to the head engineer, do the slow but reliable suppliers say that the technicians order on holiday weekends? 
+how_many_d;50;How many spare parts total, according to the head engineer, does the slow but reliable supplier say that the technicians order on holiday weekends? 
+how_many_a;51;How many supplements each, according to the head doctor, do the busy but patient physical therapists think that the athletes need in a usual season? 
+how_many_b;51;How many supplements each, according to the head doctor, does the busy but patient physical therapist think that the athletes need in a usual season? 
+how_many_c;51;How many supplements total, according to the head doctor, do the busy but patient physical therapists think that the athletes need in a usual season? 
+how_many_d;51;How many supplements total, according to the head doctor, does the busy but patient physical therapist think that the athletes need in a usual season?
+how_many_a;52;How many packages each, according to the landlord, do the kind but impatient tenants say that the company delivers on Sundays?
+how_many_b;52;How many packages each, according to the landlord, does the kind but impatient tenants say that the company delivers on Sundays?
+how_many_c;52;How many packages total, according to the landlord, do the kind but impatient tenants say that the company delivers on Sundays?
+how_many_d;52;How many packages total, according to the landlord, does the kind but impatient tenants say that the company delivers on Sundays?
+how_many_a;53;How many beds each, according to the guests, do the organized but unhurried owners say that the housekeepers make on a given day?
+how_many_b;53;How many beds each, according to the guests, does the organized but unhurried owner say that the housekeepers make on a given day?
+how_many_c;53;How many beds total, according to the guests, do the organized but unhurried owners say that the housekeepers make on a given day?
+how_many_d;53;How many beds total, according to the guests, does the organized but unhurried owner say that the housekeepers make on a given day?
+how_many_a;54;How many parts each, according to the output, do the overbearing but patient supervisors think that the assembly line workers make? 
+how_many_b;54;How many parts each, according to the output, does the overbearing but patient supervisor think that the assembly line workers make? 
+how_many_c;54;How many parts total, according to the output, do the overbearing but patient supervisors think that the assembly line workers make? 
+how_many_d;54;How many parts total, according to the output, does the overbearing but patient supervisor think that the assembly line workers make? 
+how_many_a;55;How many bottles of wine each, according to customer demand, do the novice but hardworking waiters recommend that the owners order for the restaurant?
+how_many_b;55;How many bottles of wine each, according to customer demand, does the novice but hardworking waiter recommend that the owners order for the restaurant?
+how_many_c;55;How many bottles of wine total, according to customer demand, do the novice but hardworking waiters recommend that the owners order for the restaurant?
+how_many_d;55;How many bottles of wine total, according to customer demand, does the novice but hardworking waiter recommend that the owners order for the restaurant?
+how_many_a;56;How many miles each, according to the manufacturer, do the fast but inattentive test drivers claim that the cars can go before the release date?
+how_many_b;56;How many miles each, according to the manufacturer, does the fast but inattentive test driver claim that the cars can go before the release date?
+how_many_c;56;How many miles total, according to the manufacturer, do the fast but inattentive test drivers claim that the cars can go before the release date?
+how_many_d;56;How many miles total, according to the manufacturer, does the fast but inattentive test driver claim that the cars can go before the release date?
+how_soon_a;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, do the intelligent but slow detectives believe that the gang members fled town?
+how_soon_b;57;How soon after quickly and clumsily committting two robberies each, in light of the evidence, does the intelligent but slow detective believe that the gang members fled town?
+how_soon_c;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, do the intelligent but slow detectives believe that the gang members fled town?
+how_soon_d;57;How soon after the clumsy criminals committting two robberies each, in light of the evidence, does the intelligent but slow detective believe that the gang members fled town?
+how_soon_a;58;How soon after carefully and steadily completing two procedures each, given the circumstances, do the sick but understanding patients in the waiting room believe that the nurses left the room?
+how_soon_b;58;How soon after carefully and steadily completing two procedures each, given the circumstances, does the sick but understanding patient in the waiting room believe that the nurses left the room?
+how_soon_c;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, do the sick but understanding patients in the waiting room believe that the nurses left the room?
+how_soon_d;58;How soon after the dilligent surgeons completing two procedures each, given the circumstances, does the sick but understanding patient in the waiting room believe that the nurses left the room?
+how_soon_a;59;How soon after expertly and aptly preparing five dishes each, given the difficulty, do the untiring but sensible waiters believe that the kitchen staff members were ready for a break? 
+how_soon_b;59;How soon after expertly and aptly preparing five dishes each, given the difficulty, does the untiring but sensible waiter believe that the kitchen staff members were ready for a break? 
+how_soon_c;59;How soon after the talented chefs preparing five dishes each, given the difficulty, do the untiring but sensible waiters believe that the kitchen staff members were ready for a break? 
+how_soon_d;59;How soon after the talented chefs preparing five dishes each, given the difficulty, does the untiring but sensible waiter believe that the kitchen staff members were ready for a break?
+how_soon_a;60;How soon after irresponsibly and hastily breaking two parts each, in light of the severity, do the seasoned but fearful crewmembers believe that the technicians would be punished?
+how_soon_b;60;How soon after irresponsibly and hastily breaking two parts each, in light of the severity, does the seasoned but fearful crewmember believe that the technicians would be punished?
+how_soon_c;60;How soon after the inproficient trainees breaking two parts each, in light of the severity, do the seasoned but fearful crewmembers believe that the technicians would be punished?
+how_soon_d;60;How soon after the inproficient trainees breaking two parts each, in light of the severity, does the seasoned but fearful crewmember believe that the technicians would be punished?
+how_soon_a;61;How soon after skillfully treating one victim each, based on the news, do the adept but exhausted fire chiefs believe that the firefighters could return to the station?
+how_soon_b;61;How soon after skillfully treating one victim each, based on the news, does the adept but exhausted fire chief believe that the firefighters could return to the station?
+how_soon_c;61;How soon after the medics treating one victim each, based on the news, do the adept but exhausted fire chiefs believe that the firefighters could return to the station?
+how_soon_d;61;How soon after the medics treating one victim each, based on the news, does the adept but exhausted fire chief believe that the firefighters could return to the station?
+how_soon_a;62;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;62;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;62;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;62;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
 
 
-79
+how_soon_a;63;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;63;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;63;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;63;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;64;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;64;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;64;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;64;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;65;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;65;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;65;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;65;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;66;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;66;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;66;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;66;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+how_soon_a;67;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;67;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;67;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;67;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+how_soon_a;68;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;68;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;68;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;68;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+how_soon_a;69;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;69;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;69;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;69;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+how_soon_a;70;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;70;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;70;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;70;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+how_soon_a;71;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;71;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;71;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;71;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+how_soon_a;72;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;72;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;72;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;72;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;73;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;73;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;73;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;73;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+how_soon_a;74;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;74;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;74;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;74;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;75;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;75;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;75;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;75;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;76;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;76;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;76;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;76;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;77;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;77;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;77;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;77;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;78;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;78;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;78;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;78;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
+
+
+how_soon_a;79;How soon after poorly and madly finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_b;79;How soon after poorly and madly finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+how_soon_c;79;How soon after the electricians finishing one house each, according to the sheriff, do the police officers believe that the carpenters stole the jewelry?
+how_soon_d;79;How soon after the electricians finishing one house each, according to the sheriff, does the police officer believe that the carpenters stole the jewelry?
+
